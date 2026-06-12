@@ -1,21 +1,21 @@
-# Hi, I'm Talha 👋
+Hello, I'm Talha 👋
 
-🎓 CS Student @ Lords Universal College, Mumbai (2027)
-🤖 Aspiring ML/AI Engineer
+🎓 Computer Science Student at Lords Universal College, Mumbai (2027)
+🤖 Machine Learning/AI Engineer Intern
 📍 Mumbai, India
 
-## 🛠️ Skills
+##  Skills
 Python | SQL | Scikit-Learn | TensorFlow | PyTorch | Pandas | Git | Docker
 
 ## 🚀 Projects
-- 📊 **Student Data Analysis** — Python, Pandas
-- 📧 **Email Automation** — Google Apps Script
-- 🤖 **Rule-based Chatbot** — Python
-- 🗄️ **Library Management DB** — SQL
-- 📁 **File Automation Scripts** — Python
+- 📊 **Student Data Analysis** | Python, Pandas
+- 📧 **Email Automation** | Google Apps Script
+- 🤖 **Rule-based Chatbot** | Python
+- 🗄️ **Library Management DB** | SQL
+- 📁 **File Automation Scripts** | Python
 
-## 💼 Experience
+## 💼 Work
 - 🌐 Web Development Intern @ Cognifyz Technologies
 
-## 📫 Connect with me
+## 📫 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/talha-shaikh-9781a93a6)
