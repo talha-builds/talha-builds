@@ -18,8 +18,4 @@ Python | SQL | Scikit-Learn | TensorFlow | PyTorch | Pandas | Git | Docker
 - 🌐 Web Development Intern @ Cognifyz Technologies
 
 ## 📫 Connect with me
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)
-
-](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/talha-shaikh-9781a93a6)
